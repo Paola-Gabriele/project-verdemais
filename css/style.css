@@ -1,7 +1,0 @@
-@font-face { 
-    font-family: 'OldRocket'; src: url(../fonts/old_rocket/OldRocket.otf) format('opentype');
-} 
-
-header h1 {
-    color: #025920; font-family: 'OldRocket', serif; font-size: 3.25em; text-align: center;    
-}
