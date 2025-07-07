@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'old_rocket';
+    src: url(../fonts/old_rocket/OldRocket.otf) format('opentype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header h1 {
+    color: #025920;
+    font-family: 'old_rocket', serif;
+    font-size: 3em;
+    text-align: center;
+}
