@@ -17,3 +17,14 @@ header h1 {
     font-size: 3em;
     text-align: center;
 }
+
+nav {
+    background-color: #52BF04;
+}
+
+/*
+nav li {
+    list-style-type: none;
+}
+*/
+
